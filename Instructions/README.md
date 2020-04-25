@@ -1,3 +1,6 @@
+﻿Complete Webpage can be found at the following link
+https://fkokro.github.io/fk_java.github.io/
+
 # JavaScript Homework - JavaScript and DOM Manipulation
 
 ## Background
